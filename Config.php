@@ -7,7 +7,7 @@ $this->setData('database',array(
     'mysql_host' => 'localhost',
     'mysql_name' => 'game',
     'mysql_user' => 'root',
-    'mysql_pass' => 'vertrigo'
+    'mysql_pass' => ''
 ));
 
 
